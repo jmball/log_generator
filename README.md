@@ -61,7 +61,7 @@ pyinstaller log_generator.spec
 
 This will create two new folders in the current directory called `build` and `dist`. The binary file is in the `dist` folder and will be called `log_generator.exe` on Windows, `log_generator.app` on MacOSX, and just `log_generator` on Linux.
 
-### Notes
+## Notes
 
 It is strongly recommended that users of this program read and understand the code to ensure that the processing methods it uses are appropriate for their use case.
 
